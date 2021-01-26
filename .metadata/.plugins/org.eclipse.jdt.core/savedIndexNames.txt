@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+D:\1º DAW\Entornos de Desarrollo\TEMA 3\Ejercicios Eclipse\ED-Eclipse-2-Debug\.metadata\.plugins\org.eclipse.jdt.core
+1067094681.index
